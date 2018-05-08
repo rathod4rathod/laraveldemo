@@ -1,0 +1,12 @@
+/* 
+    Created on : 13 Dec, 2017, 1:49:16 PM
+    Author     : Deepak Y. Sapkal
+*/
+
+.action_controls a{
+    margin-left: 5px;
+}
+.text-grey{
+    color: #ccc;
+    cursor: not-allowed;
+}
